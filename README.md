@@ -8,9 +8,9 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone git@github.com:GeekyAnts/NativeBase-KitchenSink.git
+$ git clone https://github.com/kishan0815/Twitter_NativeBase.git
 
-$ cd NativeBase-KitchenSink/
+$ cd Twitter_NativeBase/
 
 $ npm install
 
@@ -21,7 +21,7 @@ $ react-native link
 
 **Method One**
 
-*	Open the project in Xcode from **ios/NativebaseKitchenSink.xcodeproj**.
+*	Open the project in Xcode from **ios/Twitter_NativeBase.xcodeproj**.
 
 *	Hit the play button.
 
